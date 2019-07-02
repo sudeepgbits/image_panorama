@@ -9,9 +9,9 @@ In this project, we will be writing code to align & stitch together a series of 
 
 Sample:
 Input:
-![input1](images/source/IMG_20171022_155426.jpg)
-![input2](images/source/IMG_20171022_155430.jpg)
-![input3](images/source/IMG_20171022_155434.jpg)
+![input1](Images/source/IMG_20171022_155426.jpg)
+![input2](Images/source/IMG_20171022_155430.jpg)
+![input3](Images/source/IMG_20171022_155434.jpg)
 
 Output:
-![output](images/output/output.jpg)
+![output](Images/output/output.jpg)
